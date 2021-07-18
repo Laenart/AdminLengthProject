@@ -1,4 +1,4 @@
-## AdminLengthProject##
+## AdminLengthProject
 ### Точка входа ###
 Файл: main.py
 
